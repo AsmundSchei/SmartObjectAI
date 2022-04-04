@@ -8,6 +8,7 @@ system. Dont expect any superfancy stuff on my project yet as it eventually gonn
 
 
 Keys:
+
 1. Spawns the gun
 Left mouse button: Shoot
 Right mouse button: Aim

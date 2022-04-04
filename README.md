@@ -14,7 +14,7 @@ Left mouse button: Shoot
 Right mouse button: Aim
 Q/E: Lean left or right
 Left shift: Sprint
-Left ctr: Crouch
+Left ctrl: Crouch
 R: Reload
 
 Unreal version: 4.26 

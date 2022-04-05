@@ -7,8 +7,7 @@ system. Dont expect any superfancy stuff on my project yet as it eventually gonn
 
 
 
-Keys:
-
+```diff
 1. Spawns the gun
 Left mouse button: Shoot
 Right mouse button: Aim
@@ -16,6 +15,12 @@ Q/E: Lean left or right
 Left shift: Sprint
 Left ctrl: Crouch
 R: Reload
+```
+
+
+
+Keys:
+
 
 Unreal version: 4.26 
 Size: 1GB 

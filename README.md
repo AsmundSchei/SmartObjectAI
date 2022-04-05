@@ -9,14 +9,15 @@ system. Dont expect any superfancy stuff on my project yet as it eventually gonn
 
 ```diff
 Keys:
-1. Spawns the gun
-Left mouse button: Shoot
-Right mouse button: Aim
-Q/E: Lean left or right
-Left shift: Sprint
-Left ctrl: Crouch
-R: Reload
+* 1: Spawns the gun
+* Left mouse button: Shoot
+* Right mouse button: Aim
+* Q/E: Lean left or right
+* Left shift: Sprint
+* Left ctrl: Crouch
+* R: Reload
 ```
+
 
 
 

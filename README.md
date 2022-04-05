@@ -8,6 +8,7 @@ system. Dont expect any superfancy stuff on my project yet as it eventually gonn
 
 
 ```diff
+Keys:
 1. Spawns the gun
 Left mouse button: Shoot
 Right mouse button: Aim
@@ -19,7 +20,7 @@ R: Reload
 
 
 
-Keys:
+
 
 
 Unreal version: 4.26 

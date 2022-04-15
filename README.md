@@ -1,4 +1,4 @@
-# Goal oriented AI template for UnrealEngine
+# SmartObject AI template for UnrealEngine
 Goal oriented AI template for UnrealEngine
 
 

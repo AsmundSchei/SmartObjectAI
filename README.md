@@ -1,4 +1,4 @@
-# Goal-oriented-AI
+# StateTree AI template for UnrealEngine
 Goal oriented AI template for UnrealEngine
 
 

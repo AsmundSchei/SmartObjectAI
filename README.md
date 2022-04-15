@@ -1,5 +1,5 @@
-# SmartObject AI template for UnrealEngine
-Goal oriented AI template for UnrealEngine
+# SmartObject AI template for UnrealEngine 5
+Goal oriented AI template for UnrealEngine 5
 
 
 This is a project intended to make a AI that can select goals based on its current situation. Its heavly inspired by F.E.A.R.s goal oriented action planning AI
@@ -22,7 +22,7 @@ Keys:
 
 
 
-Unreal version: 4.26 
+Unreal version: UE5
 Size: 1GB 
 
 

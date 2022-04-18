@@ -5,7 +5,7 @@ SmartObject AI template for UnrealEngine 5
 This is a project intended to make a AI that can select goals based on its current situation. Its heavly inspired by F.E.A.R.s goal oriented action planning AI
 system. 
 
-# This is now ported to UE5 but the new StateTree AI system is super experimental, so use at your own risk! 
+# This is now ported to UE5. The new StateTree AI system is super experimental, so use at your own risk! 
 
 ```diff
 Keys:

@@ -20,7 +20,7 @@ Keys:
 
 
 Unreal version: UE5
-Size: 1GB 
+Size: 5GB 
 
 
 ![image](https://user-images.githubusercontent.com/2607194/163600633-fac52c36-c6b3-4e3d-b6d6-35e0cc707907.png)

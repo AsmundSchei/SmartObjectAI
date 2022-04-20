@@ -3,7 +3,10 @@ SmartObject AI template for UnrealEngine 5
 
 
 This is a project intended to make a AI that can select goals based on its current situation. Its heavly inspired by F.E.A.R.s goal oriented action planning AI
-system. It uses smart object actors that you can place out in the level and make it play different animations or tweak the code to do other interesting stuff.
+system. It uses smart object actors to trigger events like playing a animation. This can be tweaked into more interesting stuff for different use cases.
+
+![image](https://user-images.githubusercontent.com/2607194/164281029-70a04e75-c65c-4369-9adc-a0778b315820.png)
+
 
 
 

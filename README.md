@@ -11,7 +11,7 @@ system. It uses smart object actors that you can place out in the level and make
 
 * Animations out of bounds message is normal
 * AI using smart object actor triggers animations multiple times
-* Floor material needs re-adjusting, use these values: U tiling: -33,184689 V tiling: −38,202377
+* Floor material needs re-adjusting, use these values: U tiling: -33,184689 V tiling: −38,202377 (In the text coord node)
 
 
 

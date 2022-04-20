@@ -21,7 +21,7 @@ system. It uses smart object actors to trigger events like playing a animation. 
 
 
 
-# This is now ported to UE5. The new StateTree AI system is super experimental, so use at your own risk! 
+# This is now ported to UE5. The new smart object AI system is super experimental, so use at your own risk! 
 
 ```diff
 Keys:

@@ -16,6 +16,8 @@ system. It uses smart object actors to trigger events like playing a animation. 
 * AI using smart object actor triggers animations multiple times
 * Floor material needs re-adjusting, use these values: U tiling: -33,184689 V tiling: −38,202377 (In the text coord node)
 
+![image](https://user-images.githubusercontent.com/2607194/164358115-12f45ca7-206e-45a4-b48e-d944eb7a1625.png)
+
 
 
 
@@ -39,7 +41,12 @@ Unreal version: UE5
 Size: 2GB 
 
 
-![image](https://user-images.githubusercontent.com/2607194/163600633-fac52c36-c6b3-4e3d-b6d6-35e0cc707907.png)
+
+
+
+
+
+
 
 
 

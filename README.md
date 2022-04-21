@@ -1,4 +1,4 @@
-# SmartObject AI template for UnrealEngine 5
+# Smart object AI template for UnrealEngine 5
 SmartObject AI template for UnrealEngine 5
 
 

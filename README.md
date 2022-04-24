@@ -17,9 +17,10 @@ You can have a look on my Twitter account for more progress https://twitter.com/
 * AI using smart object actor triggers animations multiple times
 * Floor material needs re-adjusting, use these values: U tiling: -33,184689 V tiling: −38,202377 (In the text coord node)
 
-![image](https://user-images.githubusercontent.com/2607194/164358115-12f45ca7-206e-45a4-b48e-d944eb7a1625.png)
+![image](https://user-images.githubusercontent.com/2607194/164845763-94be56e3-836d-4eb5-a1a3-fd8782595ec0.png)
 
 
+![image](https://user-images.githubusercontent.com/2607194/164845911-f620b439-430e-428b-ba37-54bab5af9703.png)
 
 
 

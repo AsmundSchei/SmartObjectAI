@@ -16,6 +16,10 @@
 		{
 			"Name": "StateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "AbilitySystemGameFeatureActions",
+			"Enabled": true
 		}
 	]
 }

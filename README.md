@@ -24,10 +24,6 @@ You can have a look on my Twitter account for more progress https://twitter.com/
 
 
 
-
-
-# This is now ported to UE5. The new smart object AI system is super experimental, so use at your own risk! 
-
 ```diff
 Keys:
 * 1: Spawns the gun

@@ -1,5 +1,5 @@
-# Smart object AI template for UnrealEngine 5
-Smart object AI template for UnrealEngine 5
+# Smart object AI template 
+Smart object AI template for Unreal Engine 5
 
 
 This is a project intended to make a AI that can select goals based on its current situation. Its heavly inspired by F.E.A.R.s goal oriented action planning AI
@@ -13,7 +13,8 @@ You can have a look on my Twitter account for more progress https://twitter.com/
 
 # Known bugs:
 
-* Animations out of bounds message is normal
+
+* Alot of nodes is outdated, as they updated the SmartObject system for  newer versions since the first commit (might not work properly)
 * AI using smart object actor triggers animations multiple times
 * Floor material needs re-adjusting, use these values: U tiling: -33,184689 V tiling: −38,202377 (In the text coord node)
 
@@ -39,7 +40,7 @@ Keys:
 ```
 
 
-Unreal version: UE5
+Unreal version: 5.0.3
 Size: 2GB 
 
 
